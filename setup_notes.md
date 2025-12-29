@@ -52,3 +52,7 @@ used for css linting
 # lint-staged
 
 - block the code commit and push if the code format is not followed
+
+# environment management
+
+-> Acessing env type suggestion then we have to use vite-env.d.ts inside src folder
