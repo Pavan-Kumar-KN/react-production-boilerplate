@@ -60,3 +60,5 @@ used for css linting
 # Envirnoment Validator
 
 # proxy setup
+
+# Screaming architecture
