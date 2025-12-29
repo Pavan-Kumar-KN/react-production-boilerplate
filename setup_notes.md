@@ -7,3 +7,7 @@
 
 if we add this prepare script to our package.json file, Husky will automatically install and configure itself when we run npm install or yarn install.
 
+
+# Commitlint
+it's used set the rule for commit message that follows the conventional commit format.
+(reconmended for teams and opensource projects)
