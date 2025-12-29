@@ -32,14 +32,23 @@ create .prettierrc file
 
 Add these scripts to
 
-````
+```
         "format:check": "prettier --check .",
         "format:fix": "prettier --write .",
 
 
-````
-eslint-config-prettier package it used to prevent that sometimes eslint and prettier get conflicted 
+```
 
-# tailwind css 
-refer the docs 
+eslint-config-prettier package it used to prevent that sometimes eslint and prettier get conflicted
 
+# tailwind css
+
+refer the docs
+
+# Stylelint
+
+used for css linting
+
+# lint-staged
+
+- block the code commit and push if the code format is not followed
