@@ -58,3 +58,5 @@ used for css linting
 -> Acessing env type suggestion then we have to use vite-env.d.ts inside src folder
 
 # Envirnoment Validator
+
+# proxy setup
