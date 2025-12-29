@@ -39,3 +39,7 @@ Add these scripts to
 
 ````
 eslint-config-prettier package it used to prevent that sometimes eslint and prettier get conflicted 
+
+# tailwind css 
+refer the docs 
+

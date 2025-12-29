@@ -3,7 +3,7 @@ function App() {
 
     return (
         <div>
-            <h3>React Production Setup</h3>
+            <h3 className="bg-red-500 text-3xl">React Production Setup</h3>
         </div>
     )
 }
