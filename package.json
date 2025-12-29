@@ -6,8 +6,8 @@
   "scripts": {
     "prepare": "husky",
     "dev": "vite",
+    "lint:eslint":"eslint",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
